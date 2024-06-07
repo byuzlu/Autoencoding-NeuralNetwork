@@ -72,7 +72,7 @@ The autoencoder network consists of two parts: the encoder and the decoder.
 
 ## Contribution and Support
 
-Contributions and feedback are welcome to enhance the functionality and performance of the autoencoder model. For any questions or support, please reach out to [your-email@example.com]. Thank you for your interest and support!
+Contributions and feedback are welcome to enhance the functionality and performance of the autoencoder model. For any questions or support, please reach out to baha.yuzlu@gmail.com. Thank you for your interest and support!
 
 ---
 
